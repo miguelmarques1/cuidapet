@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1026334725415",
+    "project_id": "cuidapet-miguelmarques",
+    "storage_bucket": "cuidapet-miguelmarques.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026334725415:android:2e43ff957d2e224c010502",
+        "android_client_info": {
+          "package_name": "br.com.example.gradient_text"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026334725415-ag9ebfr3aqai1t8encqhc2b41fhrm0q5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpQe2ZiOIuQB0UyB3umM0r0ORT3uZXicA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026334725415-ag9ebfr3aqai1t8encqhc2b41fhrm0q5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
